@@ -14,6 +14,7 @@ members:
   - leif
   - ola
   - tobi
+  - madeleine
 ---
 
 ## About OpenTechSchool
